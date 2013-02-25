@@ -82,7 +82,7 @@ header h1 {
 
 header h2 {
   font-size: 26px;
-  color: #9ddcff;
+  color: #e50000;
   font-weight: normal;
   line-height: 1.3;
   width: 540px;
@@ -247,7 +247,7 @@ form {
 } 
 #main-content h2:before {
   content: "//";
-  color: #9ddcff;
+  color: #000000;
   padding-right: 0.3em;
   margin-left: -1.5em;
 }
@@ -263,7 +263,7 @@ form {
  
 #main-content h3:before {
   content: "///";
-  color: #9ddcff;
+  color: #9d3cff;
   padding-right: 0.3em;
   margin-left: -2em;
 }
@@ -354,6 +354,39 @@ footer a {
 }
 footer a:hover {
   color: #444;
+}
+
+/* Our changes */
+
+#main-content h3.redslash:before {
+  content: "///";
+  color: #e50000;
+  padding-right: 0.3em;
+  margin-left: -2em;
+}
+#main-content h3.blueslash:before {
+  content: "///";
+  color: #75bbfd;
+  padding-right: 0.3em;
+  margin-left: -2em;
+}
+#main-content h3.whiteslash:before {
+  content: "///";
+  color: #929591;
+  padding-right: 0.3em;
+  margin-left: -2em;
+}
+
+.principle {
+  font-weight:bold;
+  color: #029386
+}
+#sidebar h3 {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #474747;
 }
 
 /* MISC */
