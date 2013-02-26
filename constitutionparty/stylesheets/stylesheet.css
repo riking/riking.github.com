@@ -208,10 +208,13 @@ table {
 th {
   font-weight: 500;
 }
-
+/*Change:
+ center -> left
+ border 1px -> 0px
+*/
 td {
-  border: 1px solid #ebebeb;
-  text-align: center; 
+  border: 0px solid #ebebeb;
+  text-align: left;
   font-weight: 300;
 }
 
@@ -358,35 +361,62 @@ footer a:hover {
 
 /* Our changes */
 
-#main-content h3.redslash:before {
+#main-content .redslash:before {
   content: "///";
   color: #e50000;
   padding-right: 0.3em;
   margin-left: -2em;
 }
-#main-content h3.blueslash:before {
+#main-content .blueslash:before {
   content: "///";
   color: #75bbfd;
   padding-right: 0.3em;
   margin-left: -2em;
 }
-#main-content h3.whiteslash:before {
+#main-content .whiteslash:before {
   content: "///";
   color: #929591;
   padding-right: 0.3em;
   margin-left: -2em;
 }
 
+.name-vg:after {
+  content:"Virgil Goode";
+  color:#15b01a;
+  font-weight:bold;
+}
+.name-bk:after {
+  content: "Barack Obama";
+  color: #0504aa;
+  font-weight:bold;
+}
+.name-rm:after {
+  content: "Mitt Romney";
+  color: #840000;
+  font-weight:bold;
+}
+
 .principle {
   font-weight:bold;
   color: #029386
 }
+
+.clear {
+  clear: both;
+}
+
+
 #sidebar h3 {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
   color: #474747;
+}
+
+b {
+  font-weight: bold;
+  color: #101060;
 }
 
 /* MISC */
