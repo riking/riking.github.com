@@ -12,7 +12,7 @@ This is a problem because when I go to college, I won't have anyone else to remi
 ## Journal 3
 ### Uncounted words
 Naming a group as the biggest hypocrites on campus, when the groups are as big as "Students, Teachers, or Administrators", is quite a dangerous generalization. There are bound to be people in each group who both fit and don't fit your definitions of a hypocrite. However, I will take the analysis in the spirit of only looking at what aspects are shared in general among all members.
-
+Students 
 ## Journal 4
 ### Uncounted words
 
@@ -30,6 +30,6 @@ Naming a group as the biggest hypocrites on campus, when the groups are as big a
 
 ## Journal 9
 ### Uncounted words
-
+My views and attitudes certainly influence the people around me. It might not always be in the way I want, but there is an influence.
 ## Journal 10
 ### Uncounted words
